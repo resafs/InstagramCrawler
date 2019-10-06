@@ -44,3 +44,12 @@ Merupakan program yang berguna untuk mendapatkan dan mengolah konten post di Ins
 Project Link: [https://https://github.com/zeHapOs9875Ea/InstagramCrawler/](https://github.com/https://github.com/zeHapOs9875Ea/InstagramCrawler/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/zeHapOs9875Ea/InstagramCrawler.svg?style=flat-square
+[contributors-url]: https://github.com/zeHapOs9875Ea/InstagramCrawler/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/zeHapOs9875Ea/InstagramCrawler.svg?style=flat-square
+[forks-url]: https://github.com/zeHapOs9875Ea/InstagramCrawler/network/members
+[stars-shield]: https://img.shields.io/github/stars/zeHapOs9875Ea/InstagramCrawler.svg?style=flat-square
+[stars-url]: https://github.com/zeHapOs9875Ea/InstagramCrawler/stargazers
+[issues-shield]: https://img.shields.io/github/issues/zeHapOs9875Ea/InstagramCrawler.svg?style=flat-square
+[issues-url]: https://github.com/zeHapOs9875Ea/InstagramCrawler/issues
