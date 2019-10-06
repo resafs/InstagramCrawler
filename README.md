@@ -1,4 +1,4 @@
-# instagram-posts-crawler
+# Instagram-Posts-Crawler-Users
 Merupakan program yang berguna untuk mendapatkan dan mengolah konten post di Instagram menjadi Dataset.
 
 [![Contributors][contributors-shield]][contributors-url]
